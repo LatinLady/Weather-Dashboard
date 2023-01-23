@@ -59,7 +59,6 @@ header {
   }
   
   .form-inline .form-group {
-    /*margin-left: 0px !important;*/
     width: 50%;
   }
   
@@ -69,6 +68,7 @@ header {
   
   /* --------------- City Current --------------- */
   .currentWeather .col {
+    /*padding: 0px 5px 0px 10px;*/
     padding-left: 10px !important;
     padding-right: 5px !important;
     font-size: 0.7rem;
@@ -124,7 +124,7 @@ header {
   .forecast .wind,
   .forecast .uv,
   .forecast .flag {
-    display: none !important;
+     display: none;
   }
   
   /* --------------- Media Queries --------------- */
