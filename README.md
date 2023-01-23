@@ -5,6 +5,8 @@ This is a weather Dashboard that retrieves data from another application's API
  HTML,
  CSS,
  and JavaScript
+ 
+ https://latinlady.github.io/Weather-Dashboard/
 
 # Project Overview
 
