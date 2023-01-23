@@ -1,12 +1,12 @@
 # Weather-Dashboard
 This is a weather Dashboard that retrieves data from another application's API
 
-#Built with
+# Built with
 .HTML
 .CSS
 .JavaScript
 
-#Project Picture
+# Project Picture
 
 <img width="960" alt="2023-01-23" src="https://user-images.githubusercontent.com/118027404/214134218-21fc54db-284d-4bbe-8fe1-c782614d0686.png">
 
