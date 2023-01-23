@@ -1,22 +1,14 @@
-/* --------------- Global --------------- */
+* {
+    font-family: "Lobster";
+
+}
 header {
     padding: 20px;
   }
   
-/*h5 {
-    margin-bottom: 0px;
-  }*/
-  
- /* h1,*/
-  .card-header  {
+ .card-header  {
     text-align: center;
-   /* margin-left: 0px;
-    margin-bottom: 0px;*/
   }
-  
-  /*.searchedCitiesSection {
-    padding: 20px 5px;
-  }*/
   
   #searchBtn {
     background: #3fc070;
@@ -42,13 +34,12 @@ header {
   
   /* --------------- Search Cities --------------- */
   .searchedCitiesSection {
-    padding: 20px 5px;
     width: 30% !important;
   }
   
   .searchedCitiesSection .card-body {
-    padding-left: 10px !important;
-    padding-right: 5px !important;
+    padding: 0px 5px 0px 10px;
+    
     font-size: 0.7rem;
   }
   
@@ -68,7 +59,7 @@ header {
   }
   
   .form-inline .form-group {
-    margin-left: 0px !important;
+    /*margin-left: 0px !important;*/
     width: 50%;
   }
   
