@@ -162,7 +162,7 @@ $("document").ready(function () {
       displayForcastDay(cityData);
     }
   
-    /* --------------- City Forcast --------------- */
+    /* --------------- Forcast --------------- */
     function displayForcastDay(cityData) {
       cityData = cityData.daily;
       cityData.forEach(function (dayData, index) {
