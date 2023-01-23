@@ -2,9 +2,9 @@
 This is a weather Dashboard that retrieves data from another application's API
 
 # Built with
-.HTML
-.CSS
-.JavaScript
+ HTML
+ CSS
+ JavaScript
 
 # Project Overview
 
